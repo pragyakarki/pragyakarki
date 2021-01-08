@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I'm [Pragya!](https://twitter.com/_pragyakarki) 👋
 
 <!--
 **pragyakarki/pragyakarki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pragyakarki&layout=compact&langs_count=8)](https://github.com/pragyakarki/pragyakarki)
-
 ![Pragya's github stats](https://github-readme-stats.vercel.app/api?username=pragyakarki&show_icons=true)
+-->
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=pragyakarki&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Pragya's GitHub Stats" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=pragyakarki&show_icons=true&theme=material-palenight" />
