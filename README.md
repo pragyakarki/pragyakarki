@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pragyakarki&layout=compact)](https://github.com/pragyakarki/pragyakarki)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pragyakarki&layout=compact&langs_count=8)](https://github.com/pragyakarki/pragyakarki)
